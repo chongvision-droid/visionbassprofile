@@ -1,0 +1,4 @@
+name = "chongvisionbass-profile"
+
+[assets]
+directory = "."
